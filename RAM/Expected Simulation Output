@@ -1,0 +1,13 @@
+Time=0   WE=0 Address=0000 Data_In=00 Data_Out=xx
+
+Time=10  WE=1 Address=0001 Data_In=AA Data_Out=xx
+
+Time=20  WE=1 Address=0010 Data_In=55 Data_Out=xx
+
+Time=30  WE=1 Address=0011 Data_In=FF Data_Out=xx
+
+Time=40  WE=0 Address=0001 Data_In=FF Data_Out=AA
+
+Time=50  WE=0 Address=0010 Data_In=FF Data_Out=55
+
+Time=60  WE=0 Address=0011 Data_In=FF Data_Out=FF
